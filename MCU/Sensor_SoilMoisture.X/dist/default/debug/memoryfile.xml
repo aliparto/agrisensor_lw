@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<project>
+  <executable name="dist/default/debug/Sensor_SoilMoisture.X.debug.elf">
+    <memory name="data">
+      <units>bytes</units>
+      <length>1024</length>
+      <used>326</used>
+      <free>698</free>
+    </memory>
+    <memory name="program">
+      <units>bytes</units>
+      <length>16128</length>
+      <used>4887</used>
+      <free>11241</free>
+    </memory>
+  </executable>
+</project>
